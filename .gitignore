@@ -152,6 +152,6 @@ fabric.properties
 
 
 #Project spesific:
+**/*.ipynb_checkpoints/
 
-# */.ipynb_checkpoints/*
-Week 1 Python/**/.ipynb_checkpoints/*
+

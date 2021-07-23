@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="219mm"
+   height="112mm"
+   viewBox="0 0 219 112"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="machineHumanSpeed.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.0460067"
+     inkscape:cx="433.03866"
+     inkscape:cy="357.52571"
+     inkscape:window-width="4300"
+     inkscape:window-height="1721"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13322" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path13319" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-44.303364"
+       y="4.9149714"
+       id="text4133"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan4131"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="-44.303364"
+         y="4.9149714">Machine Speed</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 9.1037903,105.10595 V 1.0337475"
+       id="path12990" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 9.0123493,104.86375 H 218.25118"
+       id="path13625" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="170.58841"
+       y="110.44162"
+       id="text14238"><tspan
+         sodipodi:role="line"
+         id="tspan14236"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="170.58841"
+         y="110.44162">Human Speed</tspan></text>
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="path21072"
+       cx="18.064999"
+       cy="7.0219922"
+       r="1.5544951" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="20.716778"
+       y="9.0336952"
+       id="text24610"><tspan
+         sodipodi:role="line"
+         id="tspan24608"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="20.716778"
+         y="9.0336952">C</tspan></text>
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="path21072-7"
+       cx="56.927364"
+       cy="23.021084"
+       r="1.5544951" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="59.579144"
+       y="25.032787"
+       id="text24610-5"><tspan
+         sodipodi:role="line"
+         id="tspan24608-6"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="59.579144"
+         y="25.032787">C++</tspan></text>
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="circle26906"
+       cx="95.981346"
+       cy="46.451687"
+       r="1.5544951" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="98.633125"
+       y="48.463383"
+       id="text26910"><tspan
+         sodipodi:role="line"
+         id="tspan26908"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="98.633125"
+         y="48.463383">C# / Java</tspan></text>
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="circle26912"
+       cx="140.9752"
+       cy="69.016525"
+       r="1.5544951" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="143.62698"
+       y="71.028214"
+       id="text26916"><tspan
+         sodipodi:role="line"
+         id="tspan26914"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="143.62698"
+         y="71.028214">MATLAB</tspan></text>
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="circle26918"
+       cx="182.91945"
+       cy="89.117813"
+       r="1.5544951" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="185.57124"
+       y="91.129509"
+       id="text26922"><tspan
+         sodipodi:role="line"
+         id="tspan26920"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="185.57124"
+         y="91.129509">Python</tspan></text>
+  </g>
+</svg>
